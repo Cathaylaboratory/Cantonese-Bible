@@ -1,0 +1,2 @@
+創世紀 2:21 | PDF 10 | best=脅 | candidates=脅/脊 | confidence=medium | reason=近形字；2026-09-12 corrective re-audit，scan glyph較似脅但未達高信心 | context=上帝攞佢一條脅骨
+創世紀 2:22 | PDF 10 | best=脅 | candidates=脅/脊 | confidence=medium | reason=同一近形字重複；scan glyph較似脅但未達高信心 | context=就將呢條脅骨
